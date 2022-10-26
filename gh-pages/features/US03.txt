@@ -1,0 +1,12 @@
+Ferature:Elegir el outfit depende al clima
+
+Descripcion:
+Como universitario quiero tener recomendación 
+de outfit adecuado basado en el clima durante el 
+día   para que pueda estar tranquila sin preocuparme 
+
+Escenario:
+el usuario registra los datos que le pide la aplicación 
+Dado que la App va a localizar la ubicación y ver cómo va ser 
+la situación del clima cuando suceda esto el App recomendará 
+el outfit entonces el usuario podrá ver con que outfit vestirse

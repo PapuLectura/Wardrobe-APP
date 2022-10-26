@@ -1,0 +1,14 @@
+Ferature:Seleccionar el outfit basado en las preferencias del usuario
+
+Descripcion:
+
+Como  persona que requiere un outfit para salir,
+quiero que este outfit se base en mi información 
+personal como mis gustos y colores favoritos
+para poder sentirme cómodo con lo que uso.
+
+Escenario: El usuario espera la recomendación del outfit.
+
+Dado que la aplicación guarda la información de cada usuario
+
+Cuando el usuario requiera de una recomendación de outfit, entonces la aplicación deberá verificar sus preferencias.

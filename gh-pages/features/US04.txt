@@ -1,0 +1,16 @@
+Ferature:Seleccionar la situación para la que se requiere el outfit
+
+Descripcion : 
+Como  persona que requiere un outfit para salir,
+quiero que este outfit se base en la situación
+para poder tener un outfit para cada ocasión
+
+Escenario: 
+El usuario está dentro de la app apunto de ingresar la ocasión para el outfit.
+
+Dado que el usuario necesita un outfit adecuado.
+
+Cuando el usuario registre la ocasión para la que necesita el outfit, entonces la aplicación 
+debe basarse en ello para dar el resultado final.
+
+

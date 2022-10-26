@@ -1,0 +1,12 @@
+ferature: Registrar la ropa en el armario virtual 
+
+Descripcion:
+
+Como universitario quiero registrar mis prendas en el armario 
+virtual para que me recomiende Outfits con la ropa que ya tengo
+
+Escenario:
+el universitario registra sus prendas en la App subiendo fotos.
+Dado que la aplicación los va a grabar y guardar cuando suceda esto el usuario tendrá un armario virtual 
+entonces el usuario podrá ver sus prendas en el armario virtual  
+
