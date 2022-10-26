@@ -1,0 +1,13 @@
+ferature: Elegir para qué situación va a ser el Outfits 
+
+drescripcion:
+Como Universitario quiero tener opciones de recomendación 
+de todas las ocasiones que implica vestirse  para que pueda elegir y 
+el App me recomiende Outfits adecuados para esa ocasión.
+
+Escenario:
+En la aplicación el usuario ingresa para qué situación va a ser el outfit 
+Dado que el App va a empezar a buscar la situación ingresada cuando suceda 
+esto hará las combinaciones de las prendas entonces el usuario recibirá una
+recomendación del outfit que podrá vestir
+
